@@ -1,3 +1,27 @@
+
+# EXAMPLE :
+#
+# =======================================
+#
+# *runs the programme*
+#
+# path : c:\path\to\file-or-folder\mainFolder\
+#
+#  mainFolder
+#   ├── music
+#   │   ├── new-song
+#   │   │	 ├── new1.mp3
+#   │   │   └── new2.mp3
+#   │   └── audio1.mp3 
+#   ├── needs.tx
+#   └── logo.svg
+#
+# INFO:
+# 2-folders, 5-files
+#
+# =======================================
+
+
 import os
 
 # global variables
