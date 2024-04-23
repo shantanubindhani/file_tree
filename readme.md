@@ -13,7 +13,8 @@ path : c:\path\to\file-or-folder\mainFolder\
 
 excecuting...
 
- mainFolder
+ ```
+mainFolder
   ├── music
   │   ├── new-song
   │   │	 ├── new1.mp3
@@ -21,7 +22,7 @@ excecuting...
   │   └── audio1.mp3 
   ├── needs.tx
   └── logo.svg
-
+```
 INFO:
 2-folders, 5-files
 
